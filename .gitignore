@@ -1,0 +1,5 @@
+# virtual environment for this project
+nimEnv
+
+__pycache__
+.vscode
