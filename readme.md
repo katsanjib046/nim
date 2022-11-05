@@ -1,12 +1,4 @@
 # Nim: Play Against AI
-
-### By Sanjib Katuwal
-University of Florida
-
-Gainesville, FL
-USA
-
-### [Video Demo](https://youtu.be/ybxPolsjZ6Q)
 ## Introduction
 
 ### What is Nim?
